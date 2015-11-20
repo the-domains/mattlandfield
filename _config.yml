@@ -1,0 +1,28 @@
+name: mattlandfield
+favicon: null
+layout_spectrum: 0.8533129582647234
+typography_spectrum: 0.01042108959518373
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.48963041650131345
+  lightness: 0.23446083045564592
+  saturation: 0.8468258557841182
+  rhythmicContrast: 0.29656705423258245
+purpose: []
