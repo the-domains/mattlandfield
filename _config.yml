@@ -1,7 +1,7 @@
 name: mattlandfield
 favicon: null
-layout_spectrum: 0.8533129582647234
-typography_spectrum: 0.01042108959518373
+layout_spectrum: 0.49922
+typography_spectrum: 0.25167
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.48963041650131345
-  lightness: 0.23446083045564592
-  saturation: 0.8468258557841182
-  rhythmicContrast: 0.29656705423258245
+    - '#000908'
+    - '#eaeef1'
+    - '#404b51'
+    - '#9db6c6'
+    - '#45728d'
+  brandStrength: 0.5
+  lightness: 0.1875
+  saturation: 0.8125
+  rhythmicContrast: 0.25
 purpose: []
